@@ -1,12 +1,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23F77431&center=true&vCenter=true&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+dev2alert!" />
 </p>
-<p align="center">React / Node.js developer.</p>
-<h2 align="center">🤝 Socials</h2>
-<p align="center">
-    <a href="https://t.me/dev2alert"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://vk.com/atmpotn"><img src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
-</p>
+<p align="center">React / Node.js developer</p>
 <h2 align="center">👨‍💻 Programming languages</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -83,13 +78,13 @@
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/dev2alert/node-samp-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-plugin" width="300px" /></a>
-            <a href="https://github.com/dev2alert/node-samp-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-cli" width="300px" /></a>
-            <a href="https://github.com/dev2alert/node-samp-core"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-core" width="300px" /></a>
-            <a href="https://github.com/dev2alert/node-samp-decorators"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-decorators" width="300px" /></a>
-            <a href="https://github.com/dev2alert/node-samp-amx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-amx" width="300px" /></a>
-            <a href="https://github.com/dev2alert/node-samp-starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-starter" width="300px" /></a>
-            <a href="https://github.com/dev2alert/node-samp-javascript-starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-javascript-starter" width="300px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-plugin" width="350px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-cli" width="350px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-core"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-core" width="350px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-decorators"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-decorators" width="350px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-amx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-amx" width="350px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-starter" width="350px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-javascript-starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-javascript-starter" width="350px" /></a>
         </td>
     </tr>
     <tr>
@@ -120,8 +115,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/dev2alert/node-ctx-api-decorators"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-ctx-api-decorators" width="300px" /></a>
-            <a href="https://github.com/dev2alert/node-ctx-api-eventloop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-ctx-api-eventloop" width="300px" /></a>
+            <a href="https://github.com/dev2alert/node-ctx-api-decorators"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-ctx-api-decorators" width="350px" /></a>
+            <a href="https://github.com/dev2alert/node-ctx-api-eventloop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-ctx-api-eventloop" width="350px" /></a>
         </td>
     </tr>
 </table>
@@ -134,4 +129,9 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dev2alert&show_icons=true" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2alert&layout=compact" height="165" />
+</p>
+<h2 align="center">🤝 Socials</h2>
+<p align="center">
+    <a href="https://t.me/dev2alert"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://vk.com/atmpotn"><img src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
 </p>
