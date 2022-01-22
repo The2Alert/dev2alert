@@ -53,6 +53,83 @@
     <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?&style=for-the-badge&logo=prettier&logoColor=black" />
     <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
+<h2 align="center">🚀 Projects</h2>
+<table align="center">
+    <tr>
+        <td rowspan="4" width="300">
+            <p align="center">
+                <a href="https://github.com/dev2alert/node-samp">
+                    <img src="https://raw.githubusercontent.com/dev2alert/node-samp/main/big-logo.png" width="200px" />
+                </a>
+            </p>
+            <p align="center">
+                Runtime environment Node.js in SA-MP.
+            </p>
+            <p align="center">
+                <a href="https://github.com/dev2alert/node-samp/releases/"><img src="https://img.shields.io/github/v/release/dev2alert/node-samp" /></a>
+                <a href="https://github.com/dev2alert/node-samp/releases/"><img src="https://img.shields.io/github/downloads/dev2alert/node-samp/total" /></a>
+                <a href="https://github.com/dev2alert/node-samp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dev2alert/node-samp" /></a>
+            </p>
+        </td>
+        <th>Main repository</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/dev2alert/node-samp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp" /></a>
+        </td>
+    </tr>
+    <tr>
+        <th>Repositories</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/dev2alert/node-samp-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-plugin" width="300px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-cli" width="300px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-core"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-core" width="300px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-decorators"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-decorators" width="300px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-amx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-amx" width="300px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-starter" width="300px" /></a>
+            <a href="https://github.com/dev2alert/node-samp-javascript-starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-samp-javascript-starter" width="300px" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="4">
+            <p align="center">
+                <a href="https://github.com/dev2alert/node-ctx-api">
+                    <img src="https://raw.githubusercontent.com/dev2alert/node-ctx-api/main/md-assets/big-logo.png" width="250px" />
+                </a>
+            </p>
+            <p align="center">
+                Approach that allows to implement a tree of classes.
+            </p>
+            <p align="center">
+                <a href="https://www.npmjs.com/package/ctx-api"><img src="https://img.shields.io/npm/v/ctx-api" /></a>
+                <a href="https://www.npmjs.com/package/ctx-api"><img src="https://img.shields.io/npm/dm/ctx-api" /></a>
+                <a href="https://github.com/dev2alert/node-ctx-api/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dev2alert/node-ctx-api" /></a>
+            </p>
+        </td>
+        <th>Main repository</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/dev2alert/node-ctx-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-ctx-api" /></a>
+        </td>
+    </tr>
+    <tr>
+        <th>Repositories</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/dev2alert/node-ctx-api-decorators"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-ctx-api-decorators" width="300px" /></a>
+            <a href="https://github.com/dev2alert/node-ctx-api-eventloop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=node-ctx-api-eventloop" width="300px" /></a>
+        </td>
+    </tr>
+</table>
+<h2 align="center">⛳️ Pet projects</h2>
+<p align="center">
+    <a href="https://github.com/dev2alert/waxom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=waxom" /></a>
+    <a href="https://github.com/dev2alert/interior"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=interior" /></a>
+</p>
 <h2 align="center">📈 Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dev2alert&show_icons=true" height="165" />
