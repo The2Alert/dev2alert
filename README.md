@@ -2,6 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%23F77431&center=true&vCenter=true&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+dev2alert!" />
 </p>
 <p align="center">React / Node.js developer.</p>
+<h2 align="center">🤝 Socials</h2>
+<p align="center">
+    <a href="https://t.me/dev2alert"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://vk.com/atmpotn"><img src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
+</p>
 <h2 align="center">👨‍💻 Programming languages</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -48,8 +53,8 @@
     <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?&style=for-the-badge&logo=prettier&logoColor=black" />
     <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
-<h2 align="center">🤝 Socials</h2>
+<h2 align="center">📈 Stats</h2>
 <p align="center">
-    <a href="https://t.me/dev2alert"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://vk.com/atmpotn"><img src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=dev2alert&show_icons=true" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2alert&layout=compact" height="165" />
 </p>
