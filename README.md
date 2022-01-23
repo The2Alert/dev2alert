@@ -122,8 +122,59 @@
 </table>
 <h2 align="center">⛳️ Pet projects</h2>
 <p align="center">
-    <a href="https://github.com/dev2alert/waxom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=waxom" /></a>
-    <a href="https://github.com/dev2alert/interior"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=interior" /></a>
+    <table align="center">
+        <tr>
+            <td rowspan="2">
+                <p align="center">
+                    <a href="https://dev2alert-interior.surge.sh/"><img src="https://user-images.githubusercontent.com/68344264/150677097-da19383d-bb0b-4cba-9e29-caea0e0db2cf.png" width="300" /></a>
+                </p>
+                <h2 align="center">Interior</h2>
+                <p align="center">
+                    <a href="https://dev2alert-interior.surge.sh/"><img src="https://img.shields.io/static/v1?label=demo&message=link&color=red" /></a>
+                </p>
+            </td>
+            <th>Repository</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/dev2alert/interior"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=interior" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <p align="center">
+                    <a href="https://waxom.surge.sh/"><img src="https://user-images.githubusercontent.com/68344264/150677401-6161855d-a279-4662-b72b-7ee74faee443.png" width="300" /></a>
+                </p>
+                <h2 align="center">Waxom</h2>
+                <p align="center">
+                    <a href="https://waxom.surge.sh/"><img src="https://img.shields.io/static/v1?label=demo&message=link&color=yellowgreen" /></a>
+                </p>
+            </td>
+            <th>Repository</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/dev2alert/waxom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=waxom" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <p align="center">
+                    <a href="https://gravity-shopping-center.surge.sh/"><img src="https://user-images.githubusercontent.com/68344264/150676536-76861ce9-05ba-460c-aed0-39e57eb860f8.png" width="300" /></a>
+                </p>
+                <h2 align="center">Gravity</h2>
+                <p align="center">
+                    <a href="https://gravity-shopping-center.surge.sh/"><img src="https://img.shields.io/static/v1?label=demo&message=link&color=green" /></a>
+                </p>
+            </td>
+            <th>Repository</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/dev2alert/gravity-shopping-center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev2alert&repo=gravity-shopping-center" /></a>
+            </td>
+        </tr>
+    </table>
 </p>
 <h2 align="center">📈 Stats</h2>
 <p align="center">
