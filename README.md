@@ -183,6 +183,6 @@
 </p>
 <h2 align="center">🤝 Socials</h2>
 <p align="center">
-    <a href="https://t.me/dev2alert"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://t.me/the2alert"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://vk.com/atmpotn"><img src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
 </p>
