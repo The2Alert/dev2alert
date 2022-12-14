@@ -65,7 +65,7 @@
                     <a href="https://github.com/starfactorypixel/Launcher/blob/main/LICENSE"><img src="https://img.shields.io/github/license/starfactorypixel/Launcher" /></a>
                 </p>
             </td>
-            <th width="400">Repository</th>
+            <th width="430">Repository</th>
         </tr>
         <tr>
             <td height="300">
